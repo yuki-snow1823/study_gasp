@@ -1,0 +1,1 @@
+gsap.to(".logo", {durartion: 4 , x: 500});
