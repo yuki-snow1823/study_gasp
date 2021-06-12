@@ -1,1 +1,1 @@
-gsap.to(".logo", {durartion: 4 , x: 500});
+gsap.to(".logo", {durartion: 4 , x: 500, backgroundColor: "red", borderRadius: "20%", border: "5px solid white", ease: "bounce"});
